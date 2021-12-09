@@ -1,4 +1,4 @@
-package com.example.toasterexample;
+package com.example.toasterlibrary;
 
 import android.content.Context;
 import android.widget.Toast;
